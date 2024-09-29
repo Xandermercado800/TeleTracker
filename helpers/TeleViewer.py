@@ -6,8 +6,8 @@ import random
 
 load_dotenv()
 
-api_id = os.getenv('API_ID')
-api_hash = os.getenv('API_HASH')
+api_id = os.getenv('25813037')
+api_hash = os.getenv('554650be402964eb375e8269aff1db16')
 
 
 def get_file_info(data):
